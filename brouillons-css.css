@@ -1,0 +1,93 @@
+/*equipe.php*/
+.container{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    margin : 0
+}
+main{
+    width: 75vw;
+    height: 100vh;
+    background-color: white;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+section{
+    display: flex;
+    flex-direction: row;
+}
+.photo{
+    width: 20%;
+}
+
+/* fiche produit.php */
+body{
+    background-color: #ebfff6ff;
+    display: flex;
+    justify-content: center;
+    margin : 0
+}
+.affiche{
+    width: 225px;
+    height: 300px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section{
+    width: 75vw;
+    height: 100vh;
+    background-color: white;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.container{
+    padding-left: 10px;
+}
+
+/* toutles-film.php */
+body{
+    background-color: #ebfff6ff;
+}
+.image{
+    width: 225px;
+    height: 300px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*style.css*/
+/*
+.logo{
+    width: 100px;
+    height: 100px;
+    background-color: #BBB;
+}
+.myreserv{
+    width: 50px;
+    height: 50px;
+    background-color: #BBB;
+}
+nav p{
+    display: inline-block;
+    /* color: white;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 1.3rem;
+}
+
+footer{
+    background-color: #888;
+    height: 30vh;
+}
+ */
+/* p{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 0;
+} */
